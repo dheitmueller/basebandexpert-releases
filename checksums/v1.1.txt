@@ -1,0 +1,4 @@
+f111efb2f54726e6b983cf23925d14577da020fceddb157b7476349720ccb04a  BasebandExpert Generator-v1.1-macOS-arm64.dmg
+9063c126692630d3f5bdd8897370e215129ba268adeacc5ca7beb7ef2b0ca72c  BasebandExpert Analyzer-v1.1-macOS-arm64.dmg
+c75dacac17b034c8bb7a35da2b7f8964bf8ebeaa0c61f756ae8b2fbe245bd71e  BasebandExpert Router-v1.1-macOS-arm64.dmg
+f1f6773e39e40c404ec96e978fee84ada49715fd32c794df7b8e87f394126d8d  FFmpeg-8.0-LGPL-source-and-build.zip
