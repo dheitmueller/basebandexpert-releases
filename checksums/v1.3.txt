@@ -1,0 +1,4 @@
+925959629998fde59b5112ba458b504b5265fee249b6c47fad863d97da3f1e7b  BasebandExpert-Generator-v1.3-macOS-arm64.dmg
+dab3045f59ed780d44f649ee17b0533cd51d3c6dc36f1c9af3102a82edb6c201  BasebandExpert-Analyzer-v1.3-macOS-arm64.dmg
+118c19d1f9f3774cbaba31b9ef4df35e53b7b0de25e34ff69d48343899a70da4  FFmpeg-8.0-Generator-LGPL-source-and-build.zip
+3c81395792591085c62d790229fa0cec0ed756932b1ce50e571ea87fe8c4ac02  FFmpeg-8.0-Analyzer-LGPL-source-and-build.zip
