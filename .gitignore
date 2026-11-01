@@ -1,3 +1,4 @@
 *.dmg
 *.zip
 artifacts/
+.DS_Store
