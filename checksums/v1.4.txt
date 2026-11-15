@@ -1,0 +1,2 @@
+c7310718e8f0187517bfef6d8b137e60845b56f9b5797845ed72d3b227498217  BasebandExpert-Analyzer-v1.4-macOS-arm64.dmg
+598266c57175e9d35764c1e863d1e90d4d28420f38e89bb81376174e5b08a7f1  FFmpeg-8.0-Analyzer-LGPL-source-and-build.zip
